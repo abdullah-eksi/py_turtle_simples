@@ -32,7 +32,7 @@ This command will execute the file and draw a flower shape.
 The Turtle library is part of Python's standard libraries and typically comes bundled with Python. If Turtle is not installed, you can install it using pip:
 
 ```bash
-pip install PythonTurtle
+pip install turtle
 ```
 
 
