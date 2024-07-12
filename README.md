@@ -35,7 +35,5 @@ The Turtle library is part of Python's standard libraries and typically comes bu
 pip install PythonTurtle
 ```
 
-## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
 
